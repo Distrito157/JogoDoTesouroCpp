@@ -6,7 +6,7 @@
 **Jogo:**
 Você precisa caçar o tesouro, informando as coordenadas, que seria a linha e a coluna.
 
-<![extra/referencia.png](Imagem do jogo) 
+<![imagem de referencia](extra/referencia.png) 
 
 **Jogo feito para terminal:**
 O jogo foi feito para terminal, mas quando eu adquirir conhecimento, irei colocar o jogo em interface gráfica.
